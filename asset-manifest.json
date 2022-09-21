@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Aaryan2005.github.io/static/css/main.76aeca16.css",
+    "main.js": "/Aaryan2005.github.io/static/js/main.fe443877.js",
+    "static/media/realestate.jpg": "/Aaryan2005.github.io/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/Aaryan2005.github.io/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/Aaryan2005.github.io/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/Aaryan2005.github.io/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/javareal.png": "/Aaryan2005.github.io/static/media/javareal.f5dd86c3ef6ef3f85acf.png",
+    "static/media/pinksigma.png": "/Aaryan2005.github.io/static/media/pinksigma.3b0c009ae9dbdd589122.png",
+    "index.html": "/Aaryan2005.github.io/index.html",
+    "main.76aeca16.css.map": "/Aaryan2005.github.io/static/css/main.76aeca16.css.map",
+    "main.fe443877.js.map": "/Aaryan2005.github.io/static/js/main.fe443877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aeca16.css",
+    "static/js/main.fe443877.js"
+  ]
+}
